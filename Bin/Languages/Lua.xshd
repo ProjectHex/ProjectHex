@@ -86,6 +86,19 @@
 	  <KeyWords name = "Punctuation"
                 bold = "false"
                 italic = "false"
+                color = "Orange">
+		<Key word = "(" />
+        <Key word = ")" />
+	  </KeyWords>
+      <KeyWords name = "Punctuation"
+                bold = "false"
+                italic = "false"
+                color = "Orange">
+        <Key word = "BackDoor" />
+      </KeyWords>
+	  <KeyWords name = "Punctuation"
+                bold = "false"
+                italic = "false"
                 color = "Red">
         <Key word = "print" />
         
